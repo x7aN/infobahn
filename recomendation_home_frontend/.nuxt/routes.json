@@ -1,0 +1,44 @@
+[
+  {
+    "name": "list",
+    "path": "/list",
+    "component": "/home/sultan/Documents/Github/recomendation_home_frontend/pages/list.vue",
+    "chunkName": "pages/list",
+    "_name": "_0d119cc9"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/home/sultan/Documents/Github/recomendation_home_frontend/pages/posts/index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_3989033b"
+  },
+  {
+    "name": "posts-add",
+    "path": "/posts/add",
+    "component": "/home/sultan/Documents/Github/recomendation_home_frontend/pages/posts/add.vue",
+    "chunkName": "pages/posts/add",
+    "_name": "_1cae586c"
+  },
+  {
+    "name": "posts-edit-id",
+    "path": "/posts/edit/:id?",
+    "component": "/home/sultan/Documents/Github/recomendation_home_frontend/pages/posts/edit/_id.vue",
+    "chunkName": "pages/posts/edit/_id",
+    "_name": "_5eb0d9dc"
+  },
+  {
+    "name": "posts-id",
+    "path": "/posts/:id",
+    "component": "/home/sultan/Documents/Github/recomendation_home_frontend/pages/posts/_id.vue",
+    "chunkName": "pages/posts/_id",
+    "_name": "_df36cf3a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/sultan/Documents/Github/recomendation_home_frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9ed30792"
+  }
+]

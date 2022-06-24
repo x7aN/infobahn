@@ -1,0 +1,26 @@
+{
+  "Article": {
+    "description": "Auto imported from components/Article.vue"
+  },
+  "Body": {
+    "description": "Auto imported from components/Body.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Home": {
+    "description": "Auto imported from components/Home.vue"
+  },
+  "List": {
+    "description": "Auto imported from components/List.vue"
+  },
+  "Profile": {
+    "description": "Auto imported from components/Profile.vue"
+  },
+  "Typegraphy": {
+    "description": "Auto imported from components/Typegraphy.vue"
+  }
+}

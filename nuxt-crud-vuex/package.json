@@ -1,0 +1,41 @@
+{
+  "name": "poc-nuxt-crud-vuex-api",
+  "version": "1.0.0",
+  "description": "poc crud vuex with Nuxt.js",
+  "author": "marchal yoan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "5.12.5",
+    "@nuxtjs/proxy": "2.0.1",
+    "cross-env": "7.0.3",
+    "nuxt": "2.14.12"
+  },
+  "devDependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint": "7.14.0",
+    "eslint-config-prettier": "6.10.1",
+    "eslint-config-prettier": "6.15.0",
+    "eslint-loader": "4.0.2",
+    "eslint-plugin-prettier": "3.1.4",
+    "eslint-plugin-vue": "7.2.0",
+    "prettier": "2.2.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": "plugin:vue/recommended",
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  }
+}

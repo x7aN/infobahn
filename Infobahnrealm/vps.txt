@@ -1,0 +1,57 @@
+Control panel login (cPanel / WHM)
+URL		https://162.0.221.184:2087/
+Username	root
+Password	Fm3O8WW4qsX62Zupg2
+
+SSH login (root access)
+IP address	162.0.221.184
+Port		22
+Username	root
+Password	Fm3O8WW4qsX62Zupg2
+
+VPS management platform
+URL		https://vpspanel.web-hosting.com
+Username	u_708071
+Password	HLDiIIRv6IaJZcpZ5s
+
+IP address: 162.0.221.184
+Main domain name: shikorr.com
+cPanel Username: shiklntv
+Password	info@bahn#realm
+IP address: 162.0.221.184
+Main domain name: infobahnrealm.com
+cPanel Username: inforyzs
+Password	info@bahn#realm
+New cPanel account login URLs:
+https://162.0.221.184:2083
+http://162.0.221.184:2082
+
+Root WHM account login URLs:
+https://162.0.221.184:2087
+http://162.0.221.184:2086
+
+Password	info@bahn#realm
+
+Directory: 
+cd /home/shiklntv/public_html/shikorr/backend
+cd /home/shiklntv/public_html/WEB_RTC/makeconnection
+cd /home/shiklntv/admin.shikorr.com/admin-backend
+cd /home/shiklntv/wdf.shikorr.com/backend
+cd /home/shiklntv/demo.shikorr.com/backend
+cd /home/inforyzs/sst/backend
+cd /home/inforyzs/new.bousst.edu.bd/backend
+cd /home/inforyzs/public_html/infobahnrealm
+cd /home/inforyzs/splashnsteamcleaning.com/backend
+cd /home/inforyzs/amrabondhu9294/backend
+cd /home/inforyzs/mitali/backend
+command: 
+/opt/cpanel/ea-nodejs10/bin/node server.js
+/opt/cpanel/ea-nodejs10/bin/forever start server.js
+/opt/cpanel/ea-nodejs10/bin/forever restart server.js
+/opt/cpanel/ea-nodejs10/bin/forever stop server.js
+
+FTP Username: inforyzs
+FTP server: ftp.infobahnrealm.com
+FTP & explicit FTPS port:  21
+
+boussted, #@sstBOU32!@#	$
